@@ -6,6 +6,25 @@
 //p10=t1|(5.0,2)| t2|(6.6,3)| t3 |(6.6,9)|
 //Las var globales son: numpolinomios(se altera si se agregan o eliminan)
 //varlor minimo de polinomios es variable global fija (polmin)
+// Funcion Principal
+int  main () {
+    fflush (stdin);
+    // Portada
+    printf ( " \ t Universidad Nacional Autónoma de México (UNAM) \ n " );
+    printf ( " \ t \ t Facultad de Ingeniería \ n " );
+    printf ( " \ t Proyecto 2 Calculadora de polinomios \ n " );
+    printf ( " \ t \ t Materia: Fundamentos de programacion (1122) \ n " );
+    printf ( " \ t \ t Profesor: Mercado Martinez Adrian Ulises \ n " );
+    printf ( " \ t \ t Bloque: 135 \ n " );
+    printf ( " \ t \ t Grupo: 07 \ n " );
+    printf ( " \ t \ t Brigada 1 \ n " );
+    printf ( " \ t Integrantes: \ n " );
+    printf ( " \ t -Arellanes Conde Esteban. \ n " );
+    printf ( " \ t -Rufino López María Elena. \ n " );
+    printf ( " \ t -Soriano Barrera María Elena. \ n " );
+    printf ( " \ t -López López Axel Dion. \ n " );
+    printf ( " \ t \ t \ t Semestre 2022-1 \ n " );
+    printf ( " \ t \ t \ t :) \ n " );
 
 
 FILE *fp;
